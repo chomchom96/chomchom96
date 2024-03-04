@@ -1,19 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,I'm%20Yongun%20Cho&%20render&fontSize=70)
 
 
-
-### 📮 MAIL
-
-cyy8071@gmail.com 
-<br><br>
-
-
-### 📑 LINKS
-
-https://velog.io/@error_io/posts 
-<br><br>
-
-
 ### 🛠 TECH STACK
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%230492C2.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +18,17 @@ https://velog.io/@error_io/posts
 ![typescript](https://img.shields.io/badge/typescript-%23E2F9FE.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 <br>
+
+### 📮 MAIL
+
+cyy8071@gmail.com 
+<br><br>
+
+
+### 📑 LINKS
+
+https://velog.io/@error_io/posts 
+<br><br>
 
 ### 📈 STATS
 
