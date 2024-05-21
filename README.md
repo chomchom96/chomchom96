@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightgreen) ![react](https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=lightblue") ![typescript](https://img.shields.io/badge/typescript-%23E2F9FE.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 
-![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-%23FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/notion-%23FFF8E7.svg?style=for-the-badge&logo=notion&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <br>
 
