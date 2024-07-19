@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,I'm%20Yongun%20Cho&%20render&fontSize=70)
 
 
+### 📑 LINKS
+https://cyy-portfolio.com <br/>
+https://velog.io/@error_io/posts
+
 ### 🛠 TECH STACK
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -21,12 +25,6 @@
 ### 📮 MAIL
 
 cyy8071@gmail.com 
-<br><br>
-
-
-### 📑 LINKS
-
-https://velog.io/@error_io/posts 
 <br><br>
 
 ### 📈 STATS
