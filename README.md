@@ -2,7 +2,7 @@
 
 
 ### 📑 LINKS
-https://cyy-portfolio.com <br/>
+https://chomchom96.github.io/portfolio/ <br/>
 https://velog.io/@error_io/posts
 
 ### 🛠 TECH STACK
