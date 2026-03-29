@@ -1,31 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,I'm%20Yongun%20Cho&%20render&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Yo  ngun%20Cho&fontSize=70)                                                                                               
+  ### 📑 LINKS                                                                                                        
+  https://chomchom96.github.io/portfolio/ <br/>
+  https://velog.io/@error_io/posts
 
+  ### 🛠 TECH STACK
 
-### 📑 LINKS
-https://chomchom96.github.io/portfolio/ <br/>
-https://velog.io/@error_io/posts
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%2
+  3F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23E2F9FE.svg?style=for-the-badge&logo=typescript&logoColor=bl
+  ue)
+  ![React](https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=lightblue)    
+  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
 
-### 🛠 TECH STACK
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoC
+  olor=lightgreen)
+  ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-componen
+  ts&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightgreen) ![react](https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=lightblue") ![typescript](https://img.shields.io/badge/typescript-%23E2F9FE.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-
-
-![Jira](https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-<br>
-
-### 📚 NOW STUDYING
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-<br>
-
-### 📮 MAIL
-
-cyy8071@gmail.com 
-<br><br>
+  ### 📮 MAIL
+  cyy8071@gmail.com
 
 ### 📈 STATS
 
