@@ -1,6 +1,6 @@
 ![Yongwoon Cho · AI agents and product engineering](./assets/header.svg)
 
-[![Velog](https://img.shields.io/badge/Velog-기술%20기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@error_io/posts)
+[![Velog](https://img.shields.io/badge/Velog-기술%20기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@error_io/)
 [![Email](https://img.shields.io/badge/Email-cyy8071%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:cyy8071@gmail.com)
 
 ## 안녕하세요, 조용운입니다
