@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">Yongwoon Cho — AI agents and product engineering</title>
+  <desc id="desc">A navy and teal profile header with connected workflow nodes and a wave along the bottom.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10233f"/>
+      <stop offset="1" stop-color="#123e46"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="14" fill="url(#background)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="48" y="48" fill="#74ded0" font-size="12" font-weight="600" letter-spacing="2.2">AI AGENTS / PRODUCT ENGINEERING</text>
+    <text x="45" y="111" fill="#f4f8fc" font-size="48" font-weight="700" letter-spacing="-1.6">Yongwoon Cho</text>
+    <text x="48" y="146" fill="#c3d5e6" font-size="17">Python · TypeScript · LLM applications</text>
+  </g>
+  <g fill="none" stroke="#79d3c8" stroke-width="1.5" opacity="0.65">
+    <path d="M666 70H723Q737 70 737 84V108H791M666 145H723Q737 145 737 131V108"/>
+    <path d="M829 108H865Q879 108 879 122V145"/>
+    <rect x="634" y="54" width="32" height="32" rx="8"/>
+    <rect x="634" y="129" width="32" height="32" rx="8"/>
+    <rect x="791" y="89" width="38" height="38" rx="10" fill="#1e5960"/>
+    <circle cx="879" cy="157" r="12"/>
+  </g>
+  <circle cx="810" cy="108" r="5" fill="#8df0cf"/>
+  <path d="M0 189C175 162 315 231 515 195S814 177 960 193V220H0Z" fill="#7ce2d0" opacity="0.1"/>
+  <path d="M0 206C222 170 372 245 593 205S820 193 960 210V220H0Z" fill="#b4f4e8" opacity="0.1"/>
+</svg>
